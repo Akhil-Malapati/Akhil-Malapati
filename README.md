@@ -7,7 +7,7 @@
 </a>
 <a href="https://www.linkedin.com/in/akhil-kumar-malapati-10b3771a4/">
   <img align="left" alt="Akhil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 
 
 
